@@ -1,0 +1,8 @@
+4.1. Run terminal.
+#python3
+#exit()
+4.2. Run .py file.
+# Vào thư mục chứa file .py
+#python3 tên file run.
+
+
