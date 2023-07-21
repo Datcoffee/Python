@@ -5,4 +5,8 @@
 # Vào thư mục chứa file .py
 #python3 tên file run.
 
+# print('message')
+# print('|'*10) #in 10 kí tự |
+
+
 
